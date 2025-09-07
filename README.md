@@ -164,3 +164,27 @@ git add.
 git commit -m "modified custom producer file"
 git push -u origin main
 ```
+
+## Task 9. Tested new custom producer file
+
+Followed Step 4 and Step 5 [here](https://github.com/denisecase/buzzline-02-case/blob/main/SETUP_KAFKA.md) to start the Kafka broker. Then opened a second terminal.
+
+```shell
+.venv\Scripts\activate
+py -m producers.kafka_producer_pinkston
+```
+
+After testing, entered ctrl + c to stop producer file and return to PowerShell prompt.
+
+## Task 10. Create custom consumer file
+
+Create a new file named kafka_consumer_pinkston.py. Copy and paste contents of kafka_consumer_case.py into kafka_consumer_pinkston.py as a starting basis.
+
+## Task 10. Add, commit, and push after creating custom consumer file
+
+```shell
+.venv\Scripts\activate
+git add.
+git commit -m "created custom consumers file"
+git push -u origin main
+```

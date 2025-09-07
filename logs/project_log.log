@@ -170,3 +170,76 @@
 2025-09-04 20:52:17 | WARNING | Producer interrupted by user.
 2025-09-04 20:52:17 | INFO | Kafka producer closed.
 2025-09-04 20:52:17 | INFO | END producer.
+2025-09-07 18:11:06 | INFO | Logging to file: logs/project_log.log
+2025-09-07 18:11:06 | INFO | Log sanitization enabled, personal info will be removed
+2025-09-07 18:11:06 | INFO | START producer.
+2025-09-07 18:11:06 | INFO | Loading environment variables from .env file...
+2025-09-07 18:11:06 | INFO | Kafka broker address: localhost:9092
+2025-09-07 18:11:07 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'XHNLZ_FNTmmGrNKjiVnyOQ', 'controller_id': 1}
+2025-09-07 18:11:07 | INFO | Kafka topic: buzzline
+2025-09-07 18:11:07 | INFO | Message interval: 1 seconds
+2025-09-07 18:11:07 | INFO | Kafka broker address: localhost:9092
+2025-09-07 18:11:07 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-07 18:11:07 | INFO | Kafka producer successfully created.
+2025-09-07 18:11:07 | INFO | Kafka broker address: localhost:9092
+2025-09-07 18:11:07 | INFO | Creating 'buzzline'.
+2025-09-07 18:11:07 | INFO | Topic 'buzzline' created successfully.
+2025-09-07 18:11:07 | INFO | Kafka topic 'buzzline' is ready.
+2025-09-07 18:11:07 | INFO | Starting message production to topic 'buzzline'...
+2025-09-07 18:11:07 | INFO | Generated buzz: I don't love Python, but it's ok!
+2025-09-07 18:11:07 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
+2025-09-07 18:11:08 | INFO | Generated buzz: Kafka is interesting.
+2025-09-07 18:11:08 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
+2025-09-07 18:11:09 | INFO | Generated buzz: Streaming data is fun.
+2025-09-07 18:11:09 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
+2025-09-07 18:11:10 | INFO | Generated buzz: I'm not so sure about this.
+2025-09-07 18:11:10 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
+2025-09-07 18:11:11 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 18:11:11 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 18:11:12 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
+2025-09-07 18:11:12 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
+2025-09-07 18:11:13 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
+2025-09-07 18:11:13 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
+2025-09-07 18:11:14 | INFO | Generated buzz: This is a buzz message.
+2025-09-07 18:11:14 | INFO | Sent message to topic 'buzzline': This is a buzz message.
+2025-09-07 18:11:15 | INFO | Generated buzz: Have a great day!
+2025-09-07 18:11:15 | INFO | Sent message to topic 'buzzline': Have a great day!
+2025-09-07 18:11:16 | INFO | Generated buzz: I don't love Python, but it's ok!
+2025-09-07 18:11:16 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
+2025-09-07 18:11:17 | INFO | Generated buzz: Kafka is interesting.
+2025-09-07 18:11:17 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
+2025-09-07 18:11:18 | INFO | Generated buzz: Streaming data is fun.
+2025-09-07 18:11:18 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
+2025-09-07 18:11:19 | INFO | Generated buzz: I'm not so sure about this.
+2025-09-07 18:11:19 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
+2025-09-07 18:11:20 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 18:11:20 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 18:11:21 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
+2025-09-07 18:11:21 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
+2025-09-07 18:11:22 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
+2025-09-07 18:11:22 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
+2025-09-07 18:11:23 | INFO | Generated buzz: This is a buzz message.
+2025-09-07 18:11:23 | INFO | Sent message to topic 'buzzline': This is a buzz message.
+2025-09-07 18:11:24 | INFO | Generated buzz: Have a great day!
+2025-09-07 18:11:24 | INFO | Sent message to topic 'buzzline': Have a great day!
+2025-09-07 18:11:25 | INFO | Generated buzz: I don't love Python, but it's ok!
+2025-09-07 18:11:25 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
+2025-09-07 18:11:26 | INFO | Generated buzz: Kafka is interesting.
+2025-09-07 18:11:26 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
+2025-09-07 18:11:27 | INFO | Generated buzz: Streaming data is fun.
+2025-09-07 18:11:27 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
+2025-09-07 18:11:28 | INFO | Generated buzz: I'm not so sure about this.
+2025-09-07 18:11:28 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
+2025-09-07 18:11:29 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 18:11:29 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 18:11:30 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
+2025-09-07 18:11:30 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
+2025-09-07 18:11:31 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
+2025-09-07 18:11:31 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
+2025-09-07 18:11:32 | INFO | Generated buzz: This is a buzz message.
+2025-09-07 18:11:32 | INFO | Sent message to topic 'buzzline': This is a buzz message.
+2025-09-07 18:11:33 | INFO | Generated buzz: Have a great day!
+2025-09-07 18:11:33 | INFO | Sent message to topic 'buzzline': Have a great day!
+2025-09-07 18:11:34 | WARNING | Producer interrupted by user.
+2025-09-07 18:11:34 | INFO | Kafka producer closed.
+2025-09-07 18:11:34 | INFO | END producer.
