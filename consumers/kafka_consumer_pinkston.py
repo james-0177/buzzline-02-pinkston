@@ -1,5 +1,5 @@
 """
-kafka_consumer_case.py
+kafka_consumer_pinkston.py
 
 Consume messages from a Kafka topic and process them.
 """
@@ -10,6 +10,7 @@ Consume messages from a Kafka topic and process them.
 
 # Import packages from Python Standard Library
 import os
+import time
 
 # Import external packages
 from dotenv import load_dotenv
@@ -61,7 +62,35 @@ def process_message(message: str) -> None:
     """
     logger.info(f"Processing message: {message}")
 
+    # Analytics variables
+    total_messages = 0
+    window_messages = 0
+    window_start = time.time()
+    window_size = 30
 
+    # Process Kafka message(s)
+    message = message.strip()
+    total_messages += 1
+    window_messages += 1
+    print(f"Consumed log message: {message}")
+
+    #Special Alert
+    if "Today (Sunday), my friends and I met to play Dungeons and Dragons." in message:
+        print(f"ALERT:  The special message was found! \n{message}")
+        logger.warning(f"ALERT:  The special message was found! \n{message}")
+
+    # Analytics Report
+    elapsed = time.time() - window_start
+    if elapsed >= window_size:
+        print("\n=== Analytics ===")
+        print(f" Total messages so far: {total_messages}")
+        print(f" Messages in last {window_size} sec: {window_messages}")
+        print("===================\n")
+
+        # reset for next window
+        window_messages = 0
+        window_start = time.time()
+        
 #####################################
 # Define main function for this module
 #####################################

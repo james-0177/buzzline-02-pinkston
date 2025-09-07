@@ -180,11 +180,24 @@ After testing, entered ctrl + c to stop producer file and return to PowerShell p
 
 Create a new file named kafka_consumer_pinkston.py. Copy and paste contents of kafka_consumer_case.py into kafka_consumer_pinkston.py as a starting basis.
 
-## Task 10. Add, commit, and push after creating custom consumer file
+## Task 11. Add, commit, and push after creating custom consumer file
 
 ```shell
 .venv\Scripts\activate
 git add.
 git commit -m "created custom consumers file"
+git push -u origin main
+```
+
+## Task 12. Modify custom consumer file
+
+Update custom consumer file kafka_consumer_pinkston.py with custom analytics to include basic message counter to include total messages, and messages in the last 30 seconds.
+
+## Task 13. Add, commit, and push updated custom consumer file
+
+```shell
+.venv\Scripts\activate
+git add.
+git commit -m "modified custom consumers file"
 git push -u origin main
 ```
