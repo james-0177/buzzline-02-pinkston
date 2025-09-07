@@ -124,3 +124,43 @@ Managing Python virtual environments is a valuable skill.
 This project is licensed under the MIT License as an example project.
 You are encouraged to fork, copy, explore, and modify the code as you like.
 See the [LICENSE](LICENSE.txt) file for more.
+
+## Task 5. Create custom producer file
+
+Create a new file named kafka_producer_pinkston.py. Copy and paste contents of kafka_producer_case.py into kafka_producer_pinkston.py as a starting basis.
+
+## Task 6. Add, commit, and push after creating custom producer file
+
+```shell
+.venv\Scripts\activate
+git add.
+git commit -m "created custom producers file"
+git push -u origin main
+```
+
+## Task 7. Modify custom producer file
+
+Update custom producer file kafka_producer_pinkston.py with custom messages.
+
+```shell
+string_list: list = [
+        "I don't love Python, but it's ok!",
+        "Kafka is interesting.",
+        "Streaming data is fun.",
+        "I'm not so sure about this.",
+        "Today (Sunday), my friends and I met to play Dungeons and Dragons.",
+        "We've been playing off-and-on for over 20 years!",
+        "In our current campaign, my warlock has reached 9th level!",
+        "This is a buzz message.",
+        "Have a great day!",
+    ]
+```
+
+## Task 8. Add, commit, and push updated custom producer file
+
+```shell
+.venv\Scripts\activate
+git add.
+git commit -m "modified custom producer file"
+git push -u origin main
+```

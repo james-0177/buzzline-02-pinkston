@@ -61,9 +61,13 @@ def generate_messages(producer, topic, interval_secs):
 
     """
     string_list: list = [
-        "I love Python!",
-        "Kafka is awesome.",
+        "I don't love Python, but it's ok!",
+        "Kafka is interesting.",
         "Streaming data is fun.",
+        "I'm not so sure about this.",
+        "Today (Sunday), my friends and I met to play Dungeons and Dragons.",
+        "We've been playing off-and-on for over 20 years!",
+        "In our current campaign, my warlock has reached 9th level!",
         "This is a buzz message.",
         "Have a great day!",
     ]
