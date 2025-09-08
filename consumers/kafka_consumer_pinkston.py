@@ -43,6 +43,11 @@ def get_kafka_consumer_group_id() -> int:
     logger.info(f"Kafka consumer group id: {group_id}")
     return group_id
 
+# Global Analytics variables
+total_messages = 0
+window_messages = 0
+window_start = time.time()
+window_size = 30
 
 #####################################
 # Define a function to process a single message
@@ -50,6 +55,8 @@ def get_kafka_consumer_group_id() -> int:
 
 
 def process_message(message: str) -> None:
+    global total_messages, window_messages, window_start, window_size
+
     """
     Process a single message.
 
@@ -61,12 +68,6 @@ def process_message(message: str) -> None:
         message (str): The message to process.
     """
     logger.info(f"Processing message: {message}")
-
-    # Analytics variables
-    total_messages = 0
-    window_messages = 0
-    window_start = time.time()
-    window_size = 30
 
     # Process Kafka message(s)
     message = message.strip()
@@ -94,7 +95,6 @@ def process_message(message: str) -> None:
 #####################################
 # Define main function for this module
 #####################################
-
 
 def main() -> None:
     """

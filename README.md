@@ -201,3 +201,26 @@ git add.
 git commit -m "modified custom consumers file"
 git push -u origin main
 ```
+
+## Task 14. Restart Kafka Broker (Terminal 1)
+
+Followed Step 4 and Step 5 [here](https://github.com/denisecase/buzzline-02-case/blob/main/SETUP_KAFKA.md) to start the Kafka broker.
+
+## Task 15. Generate new Streaming Data with a Kafka Producer (Terminal 2)
+
+Open a second terminal.
+
+```shell
+.venv\Scripts\activate
+py -m producers.kafka_producer_pinkston
+```
+
+## Task 16. Read new Streaming Data with a Kafka Consumer (Terminal 3)
+
+Open a third terminal.
+
+```shell
+.venv\Scripts\activate
+py -m consumers.kafka_consumer_pinkston
+```
+

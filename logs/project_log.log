@@ -1,245 +1,167 @@
-2025-09-04 20:51:28 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:51:29 | INFO | Generated buzz: I love Python!
-2025-09-04 20:51:29 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-04 20:51:30 | INFO | Generated buzz: Kafka is awesome.
-2025-09-04 20:51:30 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-04 20:51:31 | INFO | Generated buzz: Streaming data is fun.
-2025-09-04 20:51:31 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-04 20:51:32 | INFO | Generated buzz: This is a buzz message.
-2025-09-04 20:51:32 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-04 20:51:33 | INFO | Generated buzz: Have a great day!
-2025-09-04 20:51:33 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:51:34 | INFO | Generated buzz: I love Python!
-2025-09-04 20:51:34 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-04 20:51:35 | INFO | Generated buzz: Kafka is awesome.
-2025-09-04 20:51:35 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-04 20:51:36 | INFO | Generated buzz: Streaming data is fun.
-2025-09-04 20:51:36 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-04 20:51:36 | INFO | Generated buzz: This is a buzz message.
-2025-09-04 20:51:36 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-04 20:51:37 | INFO | Generated buzz: Have a great day!
-2025-09-04 20:51:37 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:51:38 | INFO | Generated buzz: I love Python!
-2025-09-04 20:51:38 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-04 20:51:39 | INFO | Generated buzz: Kafka is awesome.
-2025-09-04 20:51:39 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-04 20:51:40 | INFO | Generated buzz: Streaming data is fun.
-2025-09-04 20:51:40 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-04 20:51:41 | INFO | Generated buzz: This is a buzz message.
-2025-09-04 20:51:41 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-04 20:51:42 | INFO | Generated buzz: Have a great day!
-2025-09-04 20:51:42 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:51:43 | INFO | Generated buzz: I love Python!
-2025-09-04 20:51:43 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-04 20:51:44 | INFO | Generated buzz: Kafka is awesome.
-2025-09-04 20:51:44 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-04 20:51:45 | INFO | Generated buzz: Streaming data is fun.
-2025-09-04 20:51:45 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-04 20:51:46 | INFO | Generated buzz: This is a buzz message.
-2025-09-04 20:51:46 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-04 20:51:47 | INFO | Generated buzz: Have a great day!
-2025-09-04 20:51:47 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:51:48 | INFO | Generated buzz: I love Python!
-2025-09-04 20:51:48 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-04 20:51:49 | INFO | Generated buzz: Kafka is awesome.
-2025-09-04 20:51:49 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-04 20:51:50 | INFO | Generated buzz: Streaming data is fun.
-2025-09-04 20:51:50 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-04 20:51:51 | INFO | Generated buzz: This is a buzz message.
-2025-09-04 20:51:51 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-04 20:51:52 | INFO | Generated buzz: Have a great day!
-2025-09-04 20:51:52 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:51:53 | INFO | Generated buzz: I love Python!
-2025-09-04 20:51:53 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-04 20:51:54 | INFO | Generated buzz: Kafka is awesome.
-2025-09-04 20:51:54 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-04 20:51:55 | INFO | Generated buzz: Streaming data is fun.
-2025-09-04 20:51:55 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-04 20:51:56 | INFO | Logging to file: logs/project_log.log
-2025-09-04 20:51:56 | INFO | Log sanitization enabled, personal info will be removed
-2025-09-04 20:51:56 | INFO | START consumer.
-2025-09-04 20:51:56 | INFO | Kafka topic: buzzline
-2025-09-04 20:51:56 | INFO | Kafka consumer group id: default_group
-2025-09-04 20:51:56 | INFO | Consumer: Topic 'buzzline' and group 'default_group'...
-2025-09-04 20:51:56 | INFO | Kafka broker address: localhost:9092
-2025-09-04 20:51:56 | INFO | Creating Kafka consumer. Topic='buzzline' and group ID='default_group'.
-2025-09-04 20:51:56 | INFO | Generated buzz: This is a buzz message.
-2025-09-04 20:51:56 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-04 20:51:56 | INFO | Kafka consumer created successfully.
-2025-09-04 20:51:56 | INFO | Polling messages from topic 'buzzline'...
-2025-09-04 20:51:57 | INFO | Generated buzz: Have a great day!
-2025-09-04 20:51:57 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:51:58 | INFO | Generated buzz: I love Python!
-2025-09-04 20:51:58 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-04 20:51:59 | INFO | Generated buzz: Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:51:59 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:51:59 | INFO | Processing message: Have a great day!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:51:59 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:51:59 | INFO | Processing message: Have a great day!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:51:59 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:51:59 | INFO | Processing message: Have a great day!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:51:59 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:51:59 | INFO | Processing message: Have a great day!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:51:59 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:51:59 | INFO | Processing message: Have a great day!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:51:59 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:51:59 | INFO | Processing message: Have a great day!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:51:59 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:51:59 | INFO | Processing message: Have a great day!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:51:59 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:51:59 | INFO | Processing message: Have a great day!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:51:59 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:51:59 | INFO | Processing message: Have a great day!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: Kafka is awesome.
-2025-09-04 20:51:59 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:51:59 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:51:59 | INFO | Processing message: Have a great day!
-2025-09-04 20:51:59 | INFO | Processing message: I love Python!
-2025-09-04 20:51:59 | INFO | Processing message: Kafka is awesome.
-2025-09-04 20:52:00 | INFO | Generated buzz: Streaming data is fun.
-2025-09-04 20:52:00 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-04 20:52:00 | INFO | Processing message: Streaming data is fun.
-2025-09-04 20:52:01 | INFO | Generated buzz: This is a buzz message.
-2025-09-04 20:52:01 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-04 20:52:01 | INFO | Processing message: This is a buzz message.
-2025-09-04 20:52:02 | INFO | Generated buzz: Have a great day!
-2025-09-04 20:52:02 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:52:02 | INFO | Processing message: Have a great day!
-2025-09-04 20:52:03 | INFO | Generated buzz: I love Python!
-2025-09-04 20:52:03 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-04 20:52:03 | INFO | Processing message: I love Python!
-2025-09-04 20:52:03 | WARNING | Consumer interrupted by user.
-2025-09-04 20:52:03 | INFO | Kafka consumer for topic 'buzzline' closed.
-2025-09-04 20:52:03 | INFO | END consumer for topic 'buzzline' and group 'default_group'.
-2025-09-04 20:52:04 | INFO | Generated buzz: Kafka is awesome.
-2025-09-04 20:52:04 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-04 20:52:05 | INFO | Generated buzz: Streaming data is fun.
-2025-09-04 20:52:05 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-04 20:52:06 | INFO | Generated buzz: This is a buzz message.
-2025-09-04 20:52:06 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-04 20:52:07 | INFO | Generated buzz: Have a great day!
-2025-09-04 20:52:07 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:52:07 | INFO | Generated buzz: I love Python!
-2025-09-04 20:52:07 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-04 20:52:08 | INFO | Generated buzz: Kafka is awesome.
-2025-09-04 20:52:08 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-04 20:52:09 | INFO | Generated buzz: Streaming data is fun.
-2025-09-04 20:52:09 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-04 20:52:10 | INFO | Generated buzz: This is a buzz message.
-2025-09-04 20:52:10 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-04 20:52:11 | INFO | Generated buzz: Have a great day!
-2025-09-04 20:52:11 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:52:12 | INFO | Generated buzz: I love Python!
-2025-09-04 20:52:12 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-04 20:52:13 | INFO | Generated buzz: Kafka is awesome.
-2025-09-04 20:52:13 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-04 20:52:14 | INFO | Generated buzz: Streaming data is fun.
-2025-09-04 20:52:14 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-04 20:52:15 | INFO | Generated buzz: This is a buzz message.
-2025-09-04 20:52:15 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-04 20:52:16 | INFO | Generated buzz: Have a great day!
-2025-09-04 20:52:16 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-04 20:52:17 | WARNING | Producer interrupted by user.
-2025-09-04 20:52:17 | INFO | Kafka producer closed.
-2025-09-04 20:52:17 | INFO | END producer.
-2025-09-07 18:11:06 | INFO | Logging to file: logs/project_log.log
-2025-09-07 18:11:06 | INFO | Log sanitization enabled, personal info will be removed
-2025-09-07 18:11:06 | INFO | START producer.
-2025-09-07 18:11:06 | INFO | Loading environment variables from .env file...
-2025-09-07 18:11:06 | INFO | Kafka broker address: localhost:9092
-2025-09-07 18:11:07 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'XHNLZ_FNTmmGrNKjiVnyOQ', 'controller_id': 1}
-2025-09-07 18:11:07 | INFO | Kafka topic: buzzline
-2025-09-07 18:11:07 | INFO | Message interval: 1 seconds
-2025-09-07 18:11:07 | INFO | Kafka broker address: localhost:9092
-2025-09-07 18:11:07 | INFO | Connecting to Kafka broker at localhost:9092...
-2025-09-07 18:11:07 | INFO | Kafka producer successfully created.
-2025-09-07 18:11:07 | INFO | Kafka broker address: localhost:9092
-2025-09-07 18:11:07 | INFO | Creating 'buzzline'.
-2025-09-07 18:11:07 | INFO | Topic 'buzzline' created successfully.
-2025-09-07 18:11:07 | INFO | Kafka topic 'buzzline' is ready.
-2025-09-07 18:11:07 | INFO | Starting message production to topic 'buzzline'...
-2025-09-07 18:11:07 | INFO | Generated buzz: I don't love Python, but it's ok!
-2025-09-07 18:11:07 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
-2025-09-07 18:11:08 | INFO | Generated buzz: Kafka is interesting.
-2025-09-07 18:11:08 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
-2025-09-07 18:11:09 | INFO | Generated buzz: Streaming data is fun.
-2025-09-07 18:11:09 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-07 18:11:10 | INFO | Generated buzz: I'm not so sure about this.
-2025-09-07 18:11:10 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
-2025-09-07 18:11:11 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
-2025-09-07 18:11:11 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
-2025-09-07 18:11:12 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
-2025-09-07 18:11:12 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
-2025-09-07 18:11:13 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
-2025-09-07 18:11:13 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
-2025-09-07 18:11:14 | INFO | Generated buzz: This is a buzz message.
-2025-09-07 18:11:14 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-07 18:11:15 | INFO | Generated buzz: Have a great day!
-2025-09-07 18:11:15 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-07 18:11:16 | INFO | Generated buzz: I don't love Python, but it's ok!
-2025-09-07 18:11:16 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
-2025-09-07 18:11:17 | INFO | Generated buzz: Kafka is interesting.
-2025-09-07 18:11:17 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
-2025-09-07 18:11:18 | INFO | Generated buzz: Streaming data is fun.
-2025-09-07 18:11:18 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-07 18:11:19 | INFO | Generated buzz: I'm not so sure about this.
-2025-09-07 18:11:19 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
-2025-09-07 18:11:20 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
-2025-09-07 18:11:20 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
-2025-09-07 18:11:21 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
-2025-09-07 18:11:21 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
-2025-09-07 18:11:22 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
-2025-09-07 18:11:22 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
-2025-09-07 18:11:23 | INFO | Generated buzz: This is a buzz message.
-2025-09-07 18:11:23 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-07 18:11:24 | INFO | Generated buzz: Have a great day!
-2025-09-07 18:11:24 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-07 18:11:25 | INFO | Generated buzz: I don't love Python, but it's ok!
-2025-09-07 18:11:25 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
-2025-09-07 18:11:26 | INFO | Generated buzz: Kafka is interesting.
-2025-09-07 18:11:26 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
-2025-09-07 18:11:27 | INFO | Generated buzz: Streaming data is fun.
-2025-09-07 18:11:27 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-07 18:11:28 | INFO | Generated buzz: I'm not so sure about this.
-2025-09-07 18:11:28 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
-2025-09-07 18:11:29 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
-2025-09-07 18:11:29 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
-2025-09-07 18:11:30 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
-2025-09-07 18:11:30 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
-2025-09-07 18:11:31 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
-2025-09-07 18:11:31 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
-2025-09-07 18:11:32 | INFO | Generated buzz: This is a buzz message.
-2025-09-07 18:11:32 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-07 18:11:33 | INFO | Generated buzz: Have a great day!
-2025-09-07 18:11:33 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-07 18:11:34 | WARNING | Producer interrupted by user.
-2025-09-07 18:11:34 | INFO | Kafka producer closed.
-2025-09-07 18:11:34 | INFO | END producer.
+2025-09-07 19:33:28 | INFO | Processing message: Streaming data is fun.
+2025-09-07 19:33:29 | INFO | Generated buzz: I'm not so sure about this.
+2025-09-07 19:33:29 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
+2025-09-07 19:33:29 | INFO | Processing message: I'm not so sure about this.
+2025-09-07 19:33:30 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:30 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:30 | INFO | Processing message: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:30 | WARNING | ALERT:  The special message was found! 
+Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:31 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:31 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:31 | INFO | Processing message: We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:32 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:32 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:32 | INFO | Processing message: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:33 | INFO | Generated buzz: This is a buzz message.
+2025-09-07 19:33:33 | INFO | Sent message to topic 'buzzline': This is a buzz message.
+2025-09-07 19:33:33 | INFO | Processing message: This is a buzz message.
+2025-09-07 19:33:34 | INFO | Generated buzz: Have a great day!
+2025-09-07 19:33:34 | INFO | Sent message to topic 'buzzline': Have a great day!
+2025-09-07 19:33:34 | INFO | Processing message: Have a great day!
+2025-09-07 19:33:35 | INFO | Generated buzz: I don't love Python, but it's ok!
+2025-09-07 19:33:35 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
+2025-09-07 19:33:35 | INFO | Processing message: I don't love Python, but it's ok!
+2025-09-07 19:33:36 | INFO | Generated buzz: Kafka is interesting.
+2025-09-07 19:33:36 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
+2025-09-07 19:33:36 | INFO | Processing message: Kafka is interesting.
+2025-09-07 19:33:37 | INFO | Generated buzz: Streaming data is fun.
+2025-09-07 19:33:37 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
+2025-09-07 19:33:37 | INFO | Processing message: Streaming data is fun.
+2025-09-07 19:33:38 | INFO | Generated buzz: I'm not so sure about this.
+2025-09-07 19:33:38 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
+2025-09-07 19:33:38 | INFO | Processing message: I'm not so sure about this.
+2025-09-07 19:33:39 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:39 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:39 | INFO | Processing message: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:39 | WARNING | ALERT:  The special message was found! 
+Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:40 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:40 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:40 | INFO | Processing message: We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:41 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:41 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:41 | INFO | Processing message: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:42 | INFO | Generated buzz: This is a buzz message.
+2025-09-07 19:33:42 | INFO | Sent message to topic 'buzzline': This is a buzz message.
+2025-09-07 19:33:42 | INFO | Processing message: This is a buzz message.
+2025-09-07 19:33:43 | INFO | Generated buzz: Have a great day!
+2025-09-07 19:33:43 | INFO | Sent message to topic 'buzzline': Have a great day!
+2025-09-07 19:33:43 | INFO | Processing message: Have a great day!
+2025-09-07 19:33:44 | INFO | Generated buzz: I don't love Python, but it's ok!
+2025-09-07 19:33:44 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
+2025-09-07 19:33:44 | INFO | Processing message: I don't love Python, but it's ok!
+2025-09-07 19:33:45 | INFO | Generated buzz: Kafka is interesting.
+2025-09-07 19:33:45 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
+2025-09-07 19:33:45 | INFO | Processing message: Kafka is interesting.
+2025-09-07 19:33:46 | INFO | Generated buzz: Streaming data is fun.
+2025-09-07 19:33:46 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
+2025-09-07 19:33:46 | INFO | Processing message: Streaming data is fun.
+2025-09-07 19:33:47 | INFO | Generated buzz: I'm not so sure about this.
+2025-09-07 19:33:47 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
+2025-09-07 19:33:47 | INFO | Processing message: I'm not so sure about this.
+2025-09-07 19:33:48 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:48 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:48 | INFO | Processing message: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:48 | WARNING | ALERT:  The special message was found! 
+Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:49 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:49 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:49 | INFO | Processing message: We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:50 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:50 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:50 | INFO | Processing message: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:51 | INFO | Generated buzz: This is a buzz message.
+2025-09-07 19:33:51 | INFO | Sent message to topic 'buzzline': This is a buzz message.
+2025-09-07 19:33:51 | INFO | Processing message: This is a buzz message.
+2025-09-07 19:33:52 | INFO | Generated buzz: Have a great day!
+2025-09-07 19:33:52 | INFO | Sent message to topic 'buzzline': Have a great day!
+2025-09-07 19:33:52 | INFO | Processing message: Have a great day!
+2025-09-07 19:33:53 | INFO | Generated buzz: I don't love Python, but it's ok!
+2025-09-07 19:33:53 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
+2025-09-07 19:33:53 | INFO | Processing message: I don't love Python, but it's ok!
+2025-09-07 19:33:54 | INFO | Generated buzz: Kafka is interesting.
+2025-09-07 19:33:54 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
+2025-09-07 19:33:54 | INFO | Processing message: Kafka is interesting.
+2025-09-07 19:33:55 | INFO | Generated buzz: Streaming data is fun.
+2025-09-07 19:33:55 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
+2025-09-07 19:33:55 | INFO | Processing message: Streaming data is fun.
+2025-09-07 19:33:56 | INFO | Generated buzz: I'm not so sure about this.
+2025-09-07 19:33:56 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
+2025-09-07 19:33:56 | INFO | Processing message: I'm not so sure about this.
+2025-09-07 19:33:57 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:57 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:57 | INFO | Processing message: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:57 | WARNING | ALERT:  The special message was found! 
+Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:33:58 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:58 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:58 | INFO | Processing message: We've been playing off-and-on for over 20 years!
+2025-09-07 19:33:59 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:59 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:33:59 | INFO | Processing message: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:34:00 | INFO | Generated buzz: This is a buzz message.
+2025-09-07 19:34:00 | INFO | Sent message to topic 'buzzline': This is a buzz message.
+2025-09-07 19:34:00 | INFO | Processing message: This is a buzz message.
+2025-09-07 19:34:01 | INFO | Generated buzz: Have a great day!
+2025-09-07 19:34:01 | INFO | Sent message to topic 'buzzline': Have a great day!
+2025-09-07 19:34:01 | INFO | Processing message: Have a great day!
+2025-09-07 19:34:02 | INFO | Generated buzz: I don't love Python, but it's ok!
+2025-09-07 19:34:02 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
+2025-09-07 19:34:02 | INFO | Processing message: I don't love Python, but it's ok!
+2025-09-07 19:34:03 | INFO | Generated buzz: Kafka is interesting.
+2025-09-07 19:34:03 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
+2025-09-07 19:34:03 | INFO | Processing message: Kafka is interesting.
+2025-09-07 19:34:04 | INFO | Generated buzz: Streaming data is fun.
+2025-09-07 19:34:04 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
+2025-09-07 19:34:04 | INFO | Processing message: Streaming data is fun.
+2025-09-07 19:34:05 | INFO | Generated buzz: I'm not so sure about this.
+2025-09-07 19:34:05 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
+2025-09-07 19:34:05 | INFO | Processing message: I'm not so sure about this.
+2025-09-07 19:34:06 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:34:06 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:34:06 | INFO | Processing message: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:34:06 | WARNING | ALERT:  The special message was found! 
+Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:34:07 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
+2025-09-07 19:34:07 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
+2025-09-07 19:34:07 | INFO | Processing message: We've been playing off-and-on for over 20 years!
+2025-09-07 19:34:08 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:34:08 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:34:08 | INFO | Processing message: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:34:09 | INFO | Generated buzz: This is a buzz message.
+2025-09-07 19:34:09 | INFO | Sent message to topic 'buzzline': This is a buzz message.
+2025-09-07 19:34:09 | INFO | Processing message: This is a buzz message.
+2025-09-07 19:34:10 | INFO | Generated buzz: Have a great day!
+2025-09-07 19:34:10 | INFO | Sent message to topic 'buzzline': Have a great day!
+2025-09-07 19:34:10 | INFO | Processing message: Have a great day!
+2025-09-07 19:34:11 | INFO | Generated buzz: I don't love Python, but it's ok!
+2025-09-07 19:34:11 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
+2025-09-07 19:34:11 | INFO | Processing message: I don't love Python, but it's ok!
+2025-09-07 19:34:12 | INFO | Generated buzz: Kafka is interesting.
+2025-09-07 19:34:12 | INFO | Sent message to topic 'buzzline': Kafka is interesting.
+2025-09-07 19:34:12 | INFO | Processing message: Kafka is interesting.
+2025-09-07 19:34:13 | INFO | Generated buzz: Streaming data is fun.
+2025-09-07 19:34:13 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
+2025-09-07 19:34:13 | INFO | Processing message: Streaming data is fun.
+2025-09-07 19:34:14 | INFO | Generated buzz: I'm not so sure about this.
+2025-09-07 19:34:14 | INFO | Sent message to topic 'buzzline': I'm not so sure about this.
+2025-09-07 19:34:14 | INFO | Processing message: I'm not so sure about this.
+2025-09-07 19:34:15 | WARNING | Consumer interrupted by user.
+2025-09-07 19:34:15 | INFO | Kafka consumer for topic 'buzzline' closed.
+2025-09-07 19:34:15 | INFO | END consumer for topic 'buzzline' and group 'default_group'.
+2025-09-07 19:34:15 | INFO | Generated buzz: Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:34:15 | INFO | Sent message to topic 'buzzline': Today (Sunday), my friends and I met to play Dungeons and Dragons.
+2025-09-07 19:34:16 | INFO | Generated buzz: We've been playing off-and-on for over 20 years!
+2025-09-07 19:34:16 | INFO | Sent message to topic 'buzzline': We've been playing off-and-on for over 20 years!
+2025-09-07 19:34:17 | INFO | Generated buzz: In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:34:17 | INFO | Sent message to topic 'buzzline': In our current campaign, my warlock has reached 9th level!
+2025-09-07 19:34:18 | INFO | Generated buzz: This is a buzz message.
+2025-09-07 19:34:18 | INFO | Sent message to topic 'buzzline': This is a buzz message.
+2025-09-07 19:34:19 | INFO | Generated buzz: Have a great day!
+2025-09-07 19:34:19 | INFO | Sent message to topic 'buzzline': Have a great day!
+2025-09-07 19:34:20 | INFO | Generated buzz: I don't love Python, but it's ok!
+2025-09-07 19:34:20 | INFO | Sent message to topic 'buzzline': I don't love Python, but it's ok!
+2025-09-07 19:34:21 | WARNING | Producer interrupted by user.
+2025-09-07 19:34:21 | INFO | Kafka producer closed.
+2025-09-07 19:34:21 | INFO | END producer.
